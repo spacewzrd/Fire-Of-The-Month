@@ -1,0 +1,50 @@
+body{
+  padding-top: 1em;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+a{
+  color: white;
+}
+
+.main{
+  text-align: center;
+}
+
+.rec-div{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  overflow: hidden;
+  clear: both;
+}
+
+#rec{
+  margin: 0 auto;
+}
+
+#fire{
+  margin: 0 auto;
+  height: 150px;
+  width: 150px;
+}
+
+.butt{
+  margin: 1em;
+  background-color: white;
+}
+
+.details{
+  background-color: white;
+  clear: both;
+  text-align: left;
+}
+
+.otw{
+  font-weight: light-italic;
+}
