@@ -31,7 +31,7 @@ a{
 #fire{
   margin: 0 auto;
   height: 150px;
-  width: 150px;
+  width: auto;
 }
 
 .butt{
@@ -46,5 +46,7 @@ a{
 }
 
 .otw{
-  font-weight: light-italic;
+  margin: 0em;
+  padding:0em;
+  font-family: 'Permanent Marker', cursive;
 }
